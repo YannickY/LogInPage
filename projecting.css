@@ -1,0 +1,42 @@
+.one {
+    margin: auto;
+    width: 30%;
+    border: 3px solid blue;
+    padding: 10px;
+    text-align: center;
+
+}
+
+#img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 300px;
+}
+
+#comments {
+    margin: auto;
+    border: 3px solid blue;
+    width: 30%;
+    height: 50%;
+    padding: 10px;
+
+
+
+
+}
+
+textarea {
+    resize: none;
+}
+
+ul {
+    list-style-type: none;
+
+}
+
+li {
+    padding: 20px
+    
+}
